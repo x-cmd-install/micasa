@@ -1,0 +1,19 @@
+- repo: aur
+  srcname: micasa-bin
+  binname: micasa-bin
+  visiblename: micasa-bin
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: newest
+  summary: Modal TUI for tracking home projects, maintenance schedules and vendor quotes
+  maintainers:
+    - bbj@aur
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: micasa
+  visiblename: micasa
+  version: 2.8.0
+  origversion: null
+  status: newest
+  summary: TUI for tracking home projects, maintenance schedules, appliances and quotes
